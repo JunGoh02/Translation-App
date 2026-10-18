@@ -1,0 +1,11 @@
+{
+  "name": "What Does This Say?",
+  "description": "Accessible mobile language assistant to easily understand foreign signs, menus, labels, and spoken language with instant camera translation and voice practice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
